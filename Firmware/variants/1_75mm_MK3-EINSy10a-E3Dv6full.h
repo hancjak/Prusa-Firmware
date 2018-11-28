@@ -135,6 +135,9 @@
 #define PAT9125
 #define FILAMENT_SENSOR
 
+//dual zone bed support
+#define DUAL_ZONE_BED
+
 // Backlash - 
 //#define BACKLASH_X
 //#define BACKLASH_Y
